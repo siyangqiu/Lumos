@@ -1,4 +1,8 @@
 <h1>ReadMe</h1>
+<h2>What is Lumos?</h2>
+Lumos was a project built for ECS251 (Operating Systems) Winter Quarter 2020. It was inspired by <a href="https://arxiv.org/abs/1809.04774">Fidelius</a> and aimmed to achieve the same sort of protection (protecting secrets from a compromised host system/OS) while being more portable (Fidelius was built for a specific machine running a specific version of Ubuntu, GCC/G++, and Intel SGX) and easier to setup and use. Lumos is built from the ground up and makes different trade-offs in security vs usability. For more details check the PPT in this repo.
+
+<h2>How is Lumos structured and how can I run it?</h2>
 
 The Lumos Project is divided into 2 parts:
 <ul>
